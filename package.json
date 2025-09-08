@@ -54,6 +54,8 @@
     "typescript-eslint": "^8.39.1",
     "vite": "^7.1.2"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jaehyungz/kidev-ui/issues"
   },
